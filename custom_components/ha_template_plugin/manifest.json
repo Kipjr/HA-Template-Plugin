@@ -1,0 +1,18 @@
+{
+  "domain": "template_plugin",
+  "name": "Template Plugin",
+  "categories": [
+    "local_services"
+  ],
+  "codeowners": [
+    "@Kipjr"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/kipjr/HA-Template_Plugin",
+  "integration_type": "hub",
+  "iot_class": "cloud",
+  "issue_tracker": "https://github.com/Kipjr/HA-Template-Plugin/issues",
+  "requirements": [],
+  "single_config_entry": false,
+  "version": "0.0.1"
+}
