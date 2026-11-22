@@ -1,5 +1,5 @@
 {
-  "domain": "template_plugin",
+  "domain": "ha_template_plugin",
   "name": "Template Plugin",
   "categories": [
     "local_services"
